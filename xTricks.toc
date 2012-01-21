@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: |cffFF0000x|rTricks
+## Notes: Rogue Tricks manager
+## Author: Affli @ RU-Howling Fjord
+## Version: 0.1
+## RequiredDeps: Blizzard_CombatText
+
+xTricks.lua
